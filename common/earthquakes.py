@@ -5,6 +5,8 @@
 # Based on : https://peak5390.wordpress.com
 # -> 2012/12/08/matplotlib-basemap-tutorial-plotting-global-earthquake-activity/
 # -----------------------------------------------------------------------------
+# 添加了中文注释（2017/1/20）
+#------------------------------------------------------------------------------
 import urllib
 import numpy as np
 import matplotlib
