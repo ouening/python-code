@@ -1,0 +1,3 @@
+python 调用baidu api实现简单翻译软件
+
+前往http://api.fanyi.baidu.com/api/trans/product/index注册账号， 登录后台创建应用
